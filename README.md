@@ -1,1 +1,1 @@
-
+It practices in a game where a number of balloons fall on the screen, and the player must exploit an object of the same color is performed.
